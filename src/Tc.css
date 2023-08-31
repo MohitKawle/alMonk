@@ -1,0 +1,16 @@
+.container{
+    width:  max-content;
+    height: auto;
+    border: 1px solid aqua;
+    background-color: antiquewhite;
+    padding-left: 50px;
+
+}
+.name_box{
+    
+    height: 30px;
+    background-color: cadetblue;
+}
+.activeButton{
+        background-color: aqua;
+}
